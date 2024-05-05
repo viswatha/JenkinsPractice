@@ -3,6 +3,6 @@ Public class JenkinsPractice {
            System.out.println("This is to integrate between jenins & github");
            System.out.println("hello");
            System.out.println("hello2");
-           System.out.println("Job is triggered");
+           System.out.println("Job is triggered last edit");
     }
 }
