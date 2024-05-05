@@ -5,5 +5,6 @@ Public class JenkinsPractice {
            System.out.println("hello2");
            System.out.println("Job is triggered last edit");
            System.out.println("After adding edit env variable");
+           System.out.println("After adding token in github & cred in jenkins config");
     }
 }
