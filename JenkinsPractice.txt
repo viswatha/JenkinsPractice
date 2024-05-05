@@ -7,5 +7,6 @@ Public class JenkinsPractice {
            System.out.println("After adding edit env variable");
            System.out.println("After adding token in github & cred in jenkins config");
            System.out.println("After adding batch command for compiler & run in jenkins");
+           System.out.println("updated the git path in tool in jenkins- manage jenkins");
     }
 }
